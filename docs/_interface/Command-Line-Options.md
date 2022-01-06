@@ -8,7 +8,7 @@ $ geth --help
 NAME:
    geth - the go-ethereum command line interface
 
-   Copyright 2013-2021 The go-ethereum Authors
+   Copyright 2013-2022 The go-ethereum Authors
 
 USAGE:
    geth [options] [command] [command options] [arguments...]
@@ -223,5 +223,5 @@ MISC OPTIONS:
 
 
 COPYRIGHT:
-   Copyright 2013-2021 The go-ethereum Authors
+   Copyright 2013-2022 The go-ethereum Authors
 ```
